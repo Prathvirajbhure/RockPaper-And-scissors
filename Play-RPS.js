@@ -38,8 +38,7 @@ let score =
             
             else if (playerMove === 'paper'
             ){
-              const computerMove=pickcomputerMove();
-             result = '';
+              
             if(computerMove === 'rock') { 
               result = 'You win.';
             }else if (computerMove === 'paper'){
@@ -52,9 +51,7 @@ let score =
             
             
             else if(playerMove === 'rock'){
-              const computerMove=pickcomputerMove();
-            
-            result = '';
+              
             if(computerMove === 'rock') { 
               result = 'Tie.';
             }else if (computerMove === 'paper'){
