@@ -33,13 +33,6 @@ function playGame(playerMove) {
     else if (result === 'You lose.') score.Losses++;
     else if (result === 'Tie.') score.Ties++;
 
-    // Update each player's score
-    Players.forEach(player => {
-        player.playerScore.Wins = score.Wins;
-        player.playerScore.Losses = score.Losses;
-        player.playerScore.Ties = score.Ties;
-    });
-
     localStorage.setItem('score', JSON.stringify(score));
     localStorage.setItem('Players', JSON.stringify(Players));
 
