@@ -4,6 +4,7 @@ Feature :
    
    2)Also has a reset button to reset score.
 
-Screenshots
-<img width="443" alt="Screenshot 2025-01-13 at 3 35 39 PM" src="https://github.com/user-attachments/assets/2a4e4fb9-e876-4cbb-ac7f-a3cb384bba89" />
+   3) can store individual score 
 
+Screenshots
+<img width="1439" alt="Screenshot 2025-02-01 at 9 44 19 AM" src="https://github.com/user-attachments/assets/299b5742-78da-4d25-8391-bd5dd251fef4" />
