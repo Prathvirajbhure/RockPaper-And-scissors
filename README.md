@@ -4,7 +4,7 @@ Feature :
    
    2)Also has a reset button to reset score.
 
-   3) can store individual score 
+   3) Has an auto play button which lets to play automatically when pressed and can be set back to manual after pressing  auto play button once again
 
 Screenshots
-<img width="1439" alt="Screenshot 2025-02-01 at 9 44 19 AM" src="https://github.com/user-attachments/assets/299b5742-78da-4d25-8391-bd5dd251fef4" />
+<img width="613" alt="Screenshot 2025-02-03 at 4 31 24 PM" src="https://github.com/user-attachments/assets/1134bacc-3dcf-461b-9268-22ba1ed1979e" />
