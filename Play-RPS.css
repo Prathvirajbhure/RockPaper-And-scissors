@@ -37,11 +37,11 @@ font-size: 25px;
 .score {
 margin-top :70px;
 }
-.reset-button {
+.reset-button,
+.auto-play-button {
 border:none;
 font-size :15px;
 padding:5px 10px;
 background-color:white;
 cursor: pointer;
-margin-bottom: 20px;
 }
