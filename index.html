@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rock-Paper-Scissors</title>
-    <link rel="stylesheet" href="Play-RPS.css" >
+    <link rel="stylesheet" href="css/Play-RPS.css" >
     
 </head>
 <body>
@@ -31,25 +31,17 @@
     <p class="js-result result "></p>
     <p class="js-moves"></p>
     <p class="js-score score"></p>
-    
-    <div class="js-div"></div>
-    <div class="players">
-
-    </div>
-
-    <div><button
+    <button
     onclick="score.Wins=0, 
-    score.Losses=0,
+    score.Losses=0
     score.Ties=0,
     localStorage.removeItem('score');
-     updateScoreElement(); " class="reset-button">Reset Score</button></div>
-     
-     <input class="js-input" placeholder="Player name" >
+     updateScoreElement(); " class="reset-button">Reset Score</button>
 
-   
-    <button onclick = " addPlayerName()">Add</button>
-    <div class="js-score"></div>
+     <button class="auto-play-button"
+     onclick="autoPlay();">Auto play</button>
 
-    <script src="Play-RPS.js"></script>
+
+    <script src="scripts/Play-RPS.js"></script>
 </body>
 </html>
