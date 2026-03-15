@@ -6,20 +6,20 @@ A polished, logic-driven implementation of the classic Rock Paper Scissors game.
 
 ---
 
-## 🎮 The Experience
+## The Experience
 
 Challenge a randomized computer opponent in a battle of wits. The game calculates outcomes in real-time and maintains your legacy across browser sessions.
 
 ### **Key Features:**
 
-* **⚡ Auto-Play Mode:** Sit back and watch the algorithms battle it out with a built-in automated loop.
-* **💾 Persistent State:** Integrated with the **Web Storage API** so your win-streak survives a page refresh.
-* **🤖 Smart Randomization:** Utilizes mathematical flooring to ensure a truly unbiased computer opponent.
-* **✨ Dynamic UI:** Real-time updates of moves using high-quality emoji assets and CSS transitions.
+* ** Auto-Play Mode:** Sit back and watch the algorithms battle it out with a built-in automated loop.
+* ** Persistent State:** Integrated with the **Web Storage API** so your win-streak survives a page refresh.
+* ** Smart Randomization:** Utilizes mathematical flooring to ensure a truly unbiased computer opponent.
+* ** Dynamic UI:** Real-time updates of moves using high-quality emoji assets and CSS transitions.
 
 ---
 
-## 🧠 Game Logic & Mechanics
+##  Game Logic & Mechanics
 
 The core engine follows the standard circular hierarchy:
 
@@ -35,7 +35,7 @@ The core engine follows the standard circular hierarchy:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** HTML5, CSS3 (Custom Properties & Flexbox)
 * **Logic:** Vanilla JavaScript (ES6+)
@@ -44,7 +44,7 @@ The core engine follows the standard circular hierarchy:
 
 ---
 
-## 📂 Project Architecture
+##  Project Architecture
 
 ```text
 rock-paper-scissors/
@@ -58,7 +58,7 @@ rock-paper-scissors/
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the Repo:**
 ```bash
@@ -78,7 +78,7 @@ cd RockPaper-And-scissor
 
 ---
 
-## 📋 Control Reference
+##  Control Reference
 
 | Action | Function |
 | --- | --- |
@@ -88,7 +88,7 @@ cd RockPaper-And-scissor
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 * [ ] **Advanced AI:** Implement a pattern-recognition bot that "learns" player habits.
 * [ ] **Haptic Feedback:** Add vibration support for mobile devices on wins/losses.
