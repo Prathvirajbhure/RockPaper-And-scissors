@@ -12,10 +12,10 @@ Challenge a randomized computer opponent in a battle of wits. The game calculate
 
 ### **Key Features:**
 
-* ** Auto-Play Mode:** Sit back and watch the algorithms battle it out with a built-in automated loop.
-* ** Persistent State:** Integrated with the **Web Storage API** so your win-streak survives a page refresh.
-* ** Smart Randomization:** Utilizes mathematical flooring to ensure a truly unbiased computer opponent.
-* ** Dynamic UI:** Real-time updates of moves using high-quality emoji assets and CSS transitions.
+*  Auto-Play Mode: Sit back and watch the algorithms battle it out with a built-in automated loop.
+*  Persistent State: Integrated with the **Web Storage API** so your win-streak survives a page refresh.
+*  Smart Randomization: Utilizes mathematical flooring to ensure a truly unbiased computer opponent.
+*  Dynamic UI: Real-time updates of moves using high-quality emoji assets and CSS transitions.
 
 ---
 
